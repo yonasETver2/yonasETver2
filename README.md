@@ -59,7 +59,7 @@ Passionate about building **scalable, real-world applications** with **React, Ne
 [![Email](https://img.shields.io/badge/Email-yonastedela63@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonastedela63@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+251922598191-blue?style=for-the-badge&logo=telephone&logoColor=white)](tel:+251922598191)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+251922598191-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/251922598191)
-[![Telegram](https://img.shields.io/badge/Telegram-@YourUsername-339AF0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Yonastedela)
+[![Telegram](https://img.shields.io/badge/Telegram-@Yonastedela-339AF0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Yonastedela)
 
 
 ---
