@@ -22,6 +22,8 @@ Passionate about building **scalable, real-world applications** with **React, Ne
 ![SQL](https://img.shields.io/badge/SQL-005C99?style=for-the-badge&logo=mysql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL/SQL-FFC0CB?style=for-the-badge&logo=oracle&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T-SQL-008080?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
 
 ---
 
