@@ -46,8 +46,8 @@ Passionate about building **scalable, real-world applications** with **React, Ne
 
 ## 📈 GitHub Stats
 
-![Current GitHub Stats](https://github-readme-stats.vercel.app/api?username=yonasETver2&show_icons=true&theme=radical)  
-![Old GitHub Stats](https://github-readme-stats.vercel.app/api?username=yonasETver&show_icons=true&theme=radical)
+![Current GitHub Stats](https://github-readme-stats.vercel.app/api?username=yonasETver&show_icons=true&theme=radical)  
+![Old GitHub Stats](https://github-readme-stats.vercel.app/api?username=yonasETver2&show_icons=true&theme=radical)
 
 
 ---
