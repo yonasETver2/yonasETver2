@@ -41,7 +41,7 @@ Passionate about building **scalable, real-world applications** with **React, Ne
 | **Socket Programming – Desktop App** | Developed a user-friendly **Python** socket-based desktop application with **client–server architecture**, supporting user authentication, active user tracking, and **MySQL-backed SQL data management**. | Python, MySQL, SQL, Socket Programming |
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
+gggg
 ---
 
 ## 📈 GitHub Stats
