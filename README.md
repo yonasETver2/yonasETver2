@@ -2,7 +2,7 @@
 
 **Software Engineer | Full-Stack Web & Mobile Developer**  
 
-Passionate about building scalable, real-world applications with **React, Next.js, Node.js**, and **React Native**. I create intuitive web and mobile experiences, from **bus ticket booking systems** to **interactive casino landing pages**.
+Passionate about building **scalable, real-world applications** with **React, Next.js, Node.js, and React Native**. I create **intuitive web and mobile experiences**, from **regional bus booking systems** to **interactive casino landing pages**, and educational apps for kids.
 
 ---
 
@@ -15,7 +15,8 @@ Passionate about building scalable, real-world applications with **React, Next.j
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C99?style=for-the-badge&logo=mysql&logoColor=white)
@@ -54,7 +55,9 @@ Passionate about building scalable, real-world applications with **React, Next.j
 [![Portfolio](https://img.shields.io/badge/Portfolio-letsconnectyonas.com.et-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://letsconnectyonas.com.et)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yonas_Tedela-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonas-tedela)  
 [![Email](https://img.shields.io/badge/Email-yonastedela63@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonastedela63@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+251922598191-blue?style=for-the-badge&logo=telephone&logoColor=white)](tel:+251922598191)
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> 
