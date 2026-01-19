@@ -55,7 +55,7 @@ Passionate about building **scalable, real-world applications** with **React, Ne
 ## 📫 Connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-letsconnectyonas.com.et-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://letsconnectyonas.com.et)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yonas_Tedela-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonas-tedela)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yonas_Tedela-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonas-tedela-12a796143)  
 [![Email](https://img.shields.io/badge/Email-yonastedela63@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonastedela63@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+251922598191-blue?style=for-the-badge&logo=telephone&logoColor=white)](tel:+251922598191)
 
